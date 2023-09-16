@@ -16,7 +16,7 @@ import org.springframework.util.StringUtils;
  */
 @Configuration
 public class SwaggerConfig {
-
+	//titele
     @Value("${application.title}")
     private String APP_TITLE;
 
